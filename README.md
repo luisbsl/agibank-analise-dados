@@ -58,7 +58,7 @@ mvn clean test
 
 Abrir arquivo /target/site/jacoco/index.html
 
-<div style="text-align:center"><img src="https://ipfs.globalupload.io/QmRiUpbnZNvotz5pMXanfRYtCdGzLsQ5BRuei6Puocqpkc	" width="1024" /></div>
+<div style="text-align:center"><img src="https://ipfs.globalupload.io/QmRiUpbnZNvotz5pMXanfRYtCdGzLsQ5BRuei6Puocqpkc" width="1024" /></div>
 
 ## Diagramas de Classes
 
