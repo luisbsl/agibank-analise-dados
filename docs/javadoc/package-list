@@ -1,0 +1,10 @@
+br.com.luisbsl.analisevendas
+br.com.luisbsl.analisevendas.contants
+br.com.luisbsl.analisevendas.enums
+br.com.luisbsl.analisevendas.exception
+br.com.luisbsl.analisevendas.model
+br.com.luisbsl.analisevendas.model.builder
+br.com.luisbsl.analisevendas.service
+br.com.luisbsl.analisevendas.service.facade
+br.com.luisbsl.analisevendas.test.constants
+br.com.luisbsl.analisevendas.utils

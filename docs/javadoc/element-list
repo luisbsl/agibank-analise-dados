@@ -1,0 +1,10 @@
+br.com.luisbsl.agibankanalisedados
+br.com.luisbsl.agibankanalisedados.contants
+br.com.luisbsl.agibankanalisedados.enums
+br.com.luisbsl.agibankanalisedados.exception
+br.com.luisbsl.agibankanalisedados.model
+br.com.luisbsl.agibankanalisedados.model.builder
+br.com.luisbsl.agibankanalisedados.service
+br.com.luisbsl.agibankanalisedados.service.facade
+br.com.luisbsl.agibankanalisedados.test.constants
+br.com.luisbsl.agibankanalisedados.utils
